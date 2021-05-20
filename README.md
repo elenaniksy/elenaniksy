@@ -4,7 +4,7 @@
 
 ### [I'm Frontend intern]
 * :computer: I'm learning JavaScript Programming;
-* :blush: I dream to became hign skilled Reacr developer;
+* :blush: I dream to became hign skilled React developer;
 * :heart: I like web design, developing and self-development;
 
 ### :mailbox_with_mail: My contacts 
