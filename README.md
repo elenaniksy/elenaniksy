@@ -19,6 +19,7 @@
 * CSS/ Sass
 * Basic Javascript/ Basic React
 * Bootstrap
+* BEM
 
 ### :hammer_and_wrench: Tools
 * WebStorm
