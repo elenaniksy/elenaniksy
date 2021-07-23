@@ -33,3 +33,4 @@
 - [x] [Wildlife](https://elenaniksy-rs2021q1-wildlife.netlify.app/)
 - [x] [Shelter](https://elenaniksy-js2020q3-shelter.netlify.app/)
 - [x] [Online Zoo](https://elenaniksy-rs2021q1-online-zoo.netlify.app/)
+- [x] [English for kids](https://elenaniksy-rs2021q1-efk.herokuapp.com/) 
